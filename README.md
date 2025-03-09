@@ -15,6 +15,10 @@ Welcome to my Prodigy Internship repository, showcasing the skills and projects 
 - **Node.js**: JavaScript runtime for server-side development.
 - **MongoDB**: NoSQL database used for data storage.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Express.js**:A web application framework for Node.js used for building the backend server and handling HTTP requests.
+- **Socket.IO**:A JavaScript library for real-time web applications that enables bidirectional communication between clients and servers.
+- **HTML/CSS/JavaScript**:Frontend technologies used for building the user interface and enhancing interactivity.
+- **npm**: The package manager for Node.js used for installing and managing project dependencies.
 
 ## Tasks Completed
 
