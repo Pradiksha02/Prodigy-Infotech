@@ -6,7 +6,6 @@ Welcome to my Prodigy Internship repository, showcasing the skills and projects 
 
 - [Technologies Used](#technologies-used)
 - [Tasks Completed](#tasks-completed)
-- [Tasks Live link](#Taskslink)
 
 
 ## Technologies Used
